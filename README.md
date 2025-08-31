@@ -1,6 +1,6 @@
-# Chinese-IPTV
+# IPTV
 
-Chinese CCTV List
+pointer to other github
 
    guide.xml is EPG file . ( Thanks to SoPudge , https://github.com/SoPudge/kodi_iptv_epg )
 
